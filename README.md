@@ -40,7 +40,7 @@
 | 18 | CStyleLogin      | PHP strcmp type juggling    | [EN](Olicyber/OIC/Web%20Security/18%20-%20CStyleLogin/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/18%20-%20CStyleLogin/writeup-it.md) |
 | 19 | MakeAWish        | preg_match array bypass    | [EN](Olicyber/OIC/Web%20Security/19%20-%20MakeAWish/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/19%20-%20MakeAWish/writeup-it.md) |
 | 20 | CuriousGeorge    | —                          | [EN](Olicyber/OIC/Web%20Security/20%20-%20CuriousGeorge/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/20%20-%20CuriousGeorge/writeup-it.md) |
-| 21 | Sn4ckSh3nan1gans | —                          | [EN](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-it.md) |
+| 21 | Sn4ckSh3nan1gans | SQL injection (Base64 JSON) | [EN](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-it.md) |
 
 </details>
 
