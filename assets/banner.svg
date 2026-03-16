@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#bc8cff"/>
+      <stop offset="100%" style="stop-color:#f778ba"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Decorative grid dots -->
+  <g fill="#21262d" opacity="0.6">
+    <circle cx="30" cy="30" r="1.5"/><circle cx="60" cy="30" r="1.5"/><circle cx="90" cy="30" r="1.5"/><circle cx="120" cy="30" r="1.5"/><circle cx="150" cy="30" r="1.5"/>
+    <circle cx="30" cy="60" r="1.5"/><circle cx="60" cy="60" r="1.5"/><circle cx="90" cy="60" r="1.5"/><circle cx="120" cy="60" r="1.5"/><circle cx="150" cy="60" r="1.5"/>
+    <circle cx="750" cy="140" r="1.5"/><circle cx="780" cy="140" r="1.5"/><circle cx="810" cy="140" r="1.5"/><circle cx="840" cy="140" r="1.5"/><circle cx="870" cy="140" r="1.5"/>
+    <circle cx="750" cy="170" r="1.5"/><circle cx="780" cy="170" r="1.5"/><circle cx="810" cy="170" r="1.5"/><circle cx="840" cy="170" r="1.5"/><circle cx="870" cy="170" r="1.5"/>
+  </g>
+
+  <!-- Flag icon -->
+  <g transform="translate(260, 50)">
+    <rect x="0" y="0" width="4" height="100" rx="2" fill="#8b949e"/>
+    <path d="M8 5 L80 5 L68 30 L80 55 L8 55 Z" fill="url(#accent)" opacity="0.9"/>
+    <text x="22" y="38" font-family="monospace" font-size="20" fill="#0d1117" font-weight="bold">CTF</text>
+  </g>
+
+  <!-- Title -->
+  <text x="370" y="85" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#e6edf3" letter-spacing="-1">CTF Writeups</text>
+
+  <!-- Subtitle -->
+  <text x="370" y="120" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" fill="#8b949e">Walkthroughs, solutions &amp; notes from CTF competitions worldwide</text>
+
+  <!-- Accent line -->
+  <rect x="370" y="135" width="120" height="3" rx="1.5" fill="url(#accent)" opacity="0.7"/>
+
+  <!-- Terminal prompt decoration -->
+  <g transform="translate(370, 155)" font-family="'Cascadia Code', 'Fira Code', monospace" font-size="13">
+    <text fill="#58a6ff">$</text>
+    <text x="16" fill="#8b949e">cat flag.txt</text>
+  </g>
+</svg>
