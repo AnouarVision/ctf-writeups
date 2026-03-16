@@ -1,7 +1,7 @@
 # Just a Reminder...
 
-**Competition:** OliCyber
-**Category:** Web
+**Competition:** OliCyber<br>
+**Category:** Web<br>
 **URL:** http://just-a-reminder.challs.olicyber.it
 
 ---

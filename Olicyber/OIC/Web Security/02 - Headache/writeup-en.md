@@ -1,7 +1,7 @@
 # Headache
 
-**Competition:** OliCyber
-**Category:** Web
+**Competition:** OliCyber<br>
+**Category:** Web<br>
 **URL:** http://headache.challs.olicyber.it
 
 ---
