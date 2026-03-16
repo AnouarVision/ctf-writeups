@@ -30,6 +30,17 @@
 | 08 | ATooSmallReminder | Session ID enumeration    | [EN](Olicyber/OIC/Web%20Security/08%20-%20ATooSmallReminder/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/08%20-%20ATooSmallReminder/writeup-it.md) |
 | 09 | iForgot          | —                          | [EN](Olicyber/OIC/Web%20Security/09%20-%20iForgot/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/09%20-%20iForgot/writeup-it.md) |
 | 10 | ConfuseMe        | PHP type juggling          | [EN](Olicyber/OIC/Web%20Security/10%20-%20ConfuseMe/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/10%20-%20ConfuseMe/writeup-it.md) |
+| 11 | PasswordChanger3000 | IDOR / Token forgery    | [EN](Olicyber/OIC/Web%20Security/11%20-%20PasswordChanger3000/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/11%20-%20PasswordChanger3000/writeup-it.md) |
+| 12 | BasicSQLi        | —                          | [EN](Olicyber/OIC/Web%20Security/12%20-%20BasicSQLi/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/12%20-%20BasicSQLi/writeup-it.md) |
+| 13 | IGotMagic!       | File upload RCE            | [EN](Olicyber/OIC/Web%20Security/13%20-%20IGotMagic!/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/13%20-%20IGotMagic!/writeup-it.md) |
+| 14 | LightOrDark      | Local File Inclusion       | [EN](Olicyber/OIC/Web%20Security/14%20-%20LightOrDark/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/14%20-%20LightOrDark/writeup-it.md) |
+| 15 | FlagsShop        | Client-side price tampering | [EN](Olicyber/OIC/Web%20Security/15%20-%20FlagsShop/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/15%20-%20FlagsShop/writeup-it.md) |
+| 16 | TimeIsKey        | Timing attack              | [EN](Olicyber/OIC/Web%20Security/16%20-%20TimeIsKey/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/16%20-%20TimeIsKey/writeup-it.md) |
+| 17 | ZioFrank         | —                          | [EN](Olicyber/OIC/Web%20Security/17%20-%20ZioFrank/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/17%20-%20ZioFrank/writeup-it.md) |
+| 18 | CStyleLogin      | PHP strcmp type juggling    | [EN](Olicyber/OIC/Web%20Security/18%20-%20CStyleLogin/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/18%20-%20CStyleLogin/writeup-it.md) |
+| 19 | MakeAWish        | preg_match array bypass    | [EN](Olicyber/OIC/Web%20Security/19%20-%20MakeAWish/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/19%20-%20MakeAWish/writeup-it.md) |
+| 20 | CuriousGeorge    | —                          | [EN](Olicyber/OIC/Web%20Security/20%20-%20CuriousGeorge/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/20%20-%20CuriousGeorge/writeup-it.md) |
+| 21 | Sn4ckSh3nan1gans | —                          | [EN](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-it.md) |
 
 </details>
 
