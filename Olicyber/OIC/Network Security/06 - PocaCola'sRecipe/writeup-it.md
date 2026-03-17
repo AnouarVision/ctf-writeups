@@ -74,22 +74,9 @@ la password è "qhcdpoktbjdsujbsrpjwr"
 
 **Password:** `qhcdpoktbjdsujbsrpjwr`
 
-### Passo 4 — Estrarre Il File ZIP
+### Passo 4 — Aprire Il File ZIP E Leggere La Flag
 
-Il payload HTTP contiene i dati multipart/form-data. I magic bytes PK si trovano a offset 118 dal inizio. Dopo estrarre i dati corretti con i magic bytes, il file ZIP risultante è protetto con AES encryption (metodo 99).
-
-Per decomprimere, usare una libreria che supporta AES:
-
-```python
-import pyzipper
-
-with pyzipper.AESZipFile('recipe_extracted.zip', 'r') as z:
-    z.extractall(pwd='qhcdpoktbjdsujbsrpjwr'.encode())
-```
-
-### Passo 5 — Leggere La Ricetta Segreta
-
-Decomprimendo il file, si ottiene il file `ricetta.txt` con la flag:
+Aprire `recipe.txt.zip` con la password trovata. All'interno si trova `ricetta.txt` con la flag:
 
 ```
 flag{...}
@@ -100,6 +87,5 @@ flag{...}
 ## Conclusioni
 
 1. **Filtraggio Wireshark**: Usare filtri HTTP specifici per isolare il traffico pertinente (`http.request.method == POST && frame contains "keyword"`)
-2. **Estrazione Di Payload Multipart**: I file trasmessi tramite HTTP multipart/form-data hanno overhead di header che deve essere rimosso prima di usare il file binario
-3. **Crittografia AES In ZIP**: I file ZIP moderni supportano AES (metodo 99), che richiede librerie come `pyzipper` in Python (il modulo `zipfile` standard non lo supporta)
-4. **Credenziali In Chiaro**: Informazioni sensibili come le password vengono spesso trasmesse in chiaro nel traffico TCP; un semplice filtro `frame contains "password"` è sufficiente per trovarle
+2. **Estrazione Di Magic Bytes**: I dati multipart/form-data contengono overhead di header; trovare i magic bytes `PK` nel payload permette di salvare correttamente il file ZIP.
+3. **Credenziali In Chiaro**: Informazioni sensibili come le password vengono spesso trasmesse in chiaro nel traffico TCP; un semplice filtro `frame contains "password"` è sufficiente per trovarle.

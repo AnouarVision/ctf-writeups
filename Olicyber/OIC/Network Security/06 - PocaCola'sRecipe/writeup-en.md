@@ -74,22 +74,9 @@ the password is "qhcdpoktbjdsujbsrpjwr"
 
 **Password:** `qhcdpoktbjdsujbsrpjwr`
 
-### Step 4 — Extracting the ZIP File
+### Step 4 — Opening the ZIP and Reading the Flag
 
-The HTTP payload contains multipart/form-data. The `PK` magic bytes are located 118 bytes from the start of the body. After extracting the correct binary data, the resulting ZIP file is AES-encrypted (method 99).
-
-To decompress it, use a library that supports AES:
-
-```python
-import pyzipper
-
-with pyzipper.AESZipFile('recipe_extracted.zip', 'r') as z:
-    z.extractall(pwd='qhcdpoktbjdsujbsrpjwr'.encode())
-```
-
-### Step 5 — Reading the Secret Recipe
-
-Decompressing the archive yields `ricetta.txt`, which contains the flag:
+Open `recipe.txt.zip` with the password found above. Inside is `ricetta.txt`, which contains the flag:
 
 ```
 flag{...}
@@ -100,7 +87,6 @@ flag{...}
 ## Conclusions
 
 1. **Wireshark Filtering**: Use specific HTTP filters to isolate relevant traffic (`http.request.method == POST && frame contains "keyword"`).
-2. **Multipart Payload Extraction**: Files transmitted via HTTP multipart/form-data have header overhead that must be stripped before the binary file can be used.
-3. **AES Encryption in ZIP**: Modern ZIP files support AES (method 99), which requires libraries like `pyzipper` in Python — the standard `zipfile` module does not support it.
-4. **Credentials in Plaintext**: Sensitive information like passwords is often transmitted in cleartext TCP traffic; a simple `frame contains "password"` filter is enough to expose it.
+2. **Magic Bytes Extraction**: Multipart/form-data payloads contain header overhead; locating the `PK` magic bytes in the payload allows the ZIP file to be saved correctly.
+3. **Credentials in Plaintext**: Sensitive information like passwords is often transmitted in cleartext TCP traffic; a simple `frame contains "password"` filter is enough to expose it.
 
