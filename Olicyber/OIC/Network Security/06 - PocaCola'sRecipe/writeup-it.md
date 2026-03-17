@@ -35,19 +35,26 @@ import dpkt
 
 with open('intercepted.pcap', 'rb') as f:
     pcap = dpkt.pcap.Reader(f)
-
     for ts, buf in pcap:
-        eth = dpkt.ethernet.Ethernet(buf)
-        ip = eth.data
-        tcp = ip.data
-        payload = bytes(tcp.data)
+        try:
+            eth = dpkt.ethernet.Ethernet(buf)
+            ip = eth.data
+            tcp = ip.data
+            payload = tcp.data
 
-        if b'POST' in payload and b'ricetta' in payload:
-            split_idx = payload.find(b'\r\n\r\n')
-            http_body = payload[split_idx + 4:]
+            if b'PK\x03\x04' in payload:
+                print(f"ZIP file found! ({len(payload)} bytes)")
 
-            with open('recipe.txt.zip', 'wb') as f:
-                f.write(http_body)
+                pk_idx = payload.find(b'PK\x03\x04')
+                zip_data = payload[pk_idx:]
+
+                with open('recipe.txt.zip', 'wb') as f:
+                    f.write(zip_data)
+                print("Saved: recipe.txt.zip")
+                break
+        except:
+            pass
+
 ```
 
 ### Passo 3 — Trovare La Password
