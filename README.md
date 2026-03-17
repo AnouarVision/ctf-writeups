@@ -51,6 +51,29 @@
 </details>
 
 <details>
+<summary><b>OIC — Network Security</b></summary>
+
+| #  | Challenge                   | Technique                        | Writeup |
+|----|-----------------------------|----------------------------------|---------|
+| 01 | Useless                     | PCAP metadata / `capinfos`       | [EN](Olicyber/OIC/Network%20Security/01%20-%20Useless/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/01%20-%20Useless/writeup-it.md) |
+| 02 | SniffnByte                  | Hex-encoded TCP payload          | [EN](Olicyber/OIC/Network%20Security/02%20-%20SniffnByte/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/02%20-%20SniffnByte/writeup-it.md) |
+| 03 | ProtocolloDatagrammaUtente  | UDP stream reassembly            | [EN](Olicyber/OIC/Network%20Security/03%20-%20ProtocolloDatagrammaUtente/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/03%20-%20ProtocolloDatagrammaUtente/writeup-it.md) |
+| 04 | G4tto                       | HTTP object export (JPEG)        | [EN](Olicyber/OIC/Network%20Security/04%20-%20G4tto/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/04%20-%20G4tto/writeup-it.md) |
+| 05 | EasyStream                  | HTTP object export (HTML)        | [EN](Olicyber/OIC/Network%20Security/05%20-%20EasyStream/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/05%20-%20EasyStream/writeup-it.md) |
+| 06 | PocaCola's Recipe           | HTTP multipart + AES ZIP         | [EN](Olicyber/OIC/Network%20Security/06%20-%20PocaCola%27sRecipe/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/06%20-%20PocaCola%27sRecipe/writeup-it.md) |
+| 07 | Wordwang                    | —                                | [EN](Olicyber/OIC/Network%20Security/07%20-%20Wordwang/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/07%20-%20Wordwang/writeup-it.md) |
+| 08 | SicurezzaDeiTrasporti       | —                                | [EN](Olicyber/OIC/Network%20Security/08%20-%20SicurezzaDeiTrasporti/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/08%20-%20SicurezzaDeiTrasporti/writeup-it.md) |
+| 09 | That's A Lot Of F's         | —                                | [EN](Olicyber/OIC/Network%20Security/09%20-%20That%27sALotOfF%27S/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/09%20-%20That%27sALotOfF%27S/writeup-it.md) |
+| 10 | CHAOS                       | —                                | [EN](Olicyber/OIC/Network%20Security/10%20-%20CHAOS/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/10%20-%20CHAOS/writeup-it.md) |
+| 11 | AMelodyInMyHead             | —                                | [EN](Olicyber/OIC/Network%20Security/11%20-%20AMelodyInMyHead/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/11%20-%20AMelodyInMyHead/writeup-it.md) |
+| 12 | SuperSecretAgent0x42        | —                                | [EN](Olicyber/OIC/Network%20Security/12%20-%20SuperSecretAgent0x42/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/12%20-%20SuperSecretAgent0x42/writeup-it.md) |
+| 13 | YouCompleteMe               | —                                | [EN](Olicyber/OIC/Network%20Security/13%20-%20YouCompleteMe/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/13%20-%20YouCompleteMe/writeup-it.md) |
+| 14 | DNSE-MailSecurity           | —                                | [EN](Olicyber/OIC/Network%20Security/14%20-%20DNSE-MailSecurity/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/14%20-%20DNSE-MailSecurity/writeup-it.md) |
+| 15 | QuantumTransportLayer       | —                                | [EN](Olicyber/OIC/Network%20Security/15%20-%20QuantumTransportLayer/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/15%20-%20QuantumTransportLayer/writeup-it.md) |
+
+</details>
+
+<details>
 <summary><b>OIC — Misc</b></summary>
 
 *Coming soon.*
