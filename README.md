@@ -41,6 +41,12 @@
 | 19 | MakeAWish        | preg_match array bypass    | [EN](Olicyber/OIC/Web%20Security/19%20-%20MakeAWish/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/19%20-%20MakeAWish/writeup-it.md) |
 | 20 | CuriousGeorge    | —                          | [EN](Olicyber/OIC/Web%20Security/20%20-%20CuriousGeorge/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/20%20-%20CuriousGeorge/writeup-it.md) |
 | 21 | Sn4ckSh3nan1gans | SQL injection (Base64 JSON) | [EN](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/21%20-%20Sn4ckSh3nan1gans/writeup-it.md) |
+| 22 | ShellsRevenge    | —                           | [EN](Olicyber/OIC/Web%20Security/22%20-%20ShellsRevenge/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/22%20-%20ShellsRevenge/writeup-it.md) |
+| 23 | Admin's Secret   | SQL injection / Auth bypass | [EN](Olicyber/OIC/Web%20Security/23%20-%20Admin%27sSecret/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/23%20-%20Admin%27sSecret/writeup-it.md) |
+| 24 | TrulyRandomSignature | —                       | [EN](Olicyber/OIC/Web%20Security/24%20-%20TrulyRandomSignature/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/24%20-%20TrulyRandomSignature/writeup-it.md) |
+| 25 | TIMP             | —                           | [EN](Olicyber/OIC/Web%20Security/25%20-%20TIMP/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/25%20-%20TIMP/writeup-it.md) |
+| 26 | IfYouHaveNoTimeJustDon'tWait | —               | [EN](Olicyber/OIC/Web%20Security/26%20-%20IfYouHaveNoTimeJustDon%27tWait/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/26%20-%20IfYouHaveNoTimeJustDon%27tWait/writeup-it.md) |
+| 27 | ShellsRevenge2   | —                           | [EN](Olicyber/OIC/Web%20Security/27%20-%20ShellsRevenge2/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/27%20-%20ShellsRevenge2/writeup-it.md) |
 
 </details>
 
