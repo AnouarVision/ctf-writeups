@@ -67,7 +67,7 @@
 | 10 | CHAOS                       | TCP chaos, timestamp sorting     | [EN](Olicyber/OIC/Network%20Security/10%20-%20CHAOS/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/10%20-%20CHAOS/writeup-it.md) |
 | 11 | AMelodyInMyHead             | Weak nonce, replay attack ([script](Olicyber/OIC/Network%20Security/11%20-%20AMelodyInMyHead/melody.py)) | [EN](Olicyber/OIC/Network%20Security/11%20-%20AMelodyInMyHead/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/11%20-%20AMelodyInMyHead/writeup-it.md) |
 | 12 | SuperSecretAgent0x42        | XOR challenge-response, key extraction | [EN](Olicyber/OIC/Network%20Security/12%20-%20SuperSecretAgent0x42/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/12%20-%20SuperSecretAgent0x42/writeup-it.md) |
-| 13 | YouCompleteMe               | —                                | [EN](Olicyber/OIC/Network%20Security/13%20-%20YouCompleteMe/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/13%20-%20YouCompleteMe/writeup-it.md) |
+| 13 | YouCompleteMe               | Side-channel (response size, ECB leaks) | [EN](Olicyber/OIC/Network%20Security/13%20-%20YouCompleteMe/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/13%20-%20YouCompleteMe/writeup-it.md) |
 | 14 | DNSE-MailSecurity           | DNS SPF CNAME enumeration        | [EN](Olicyber/OIC/Network%20Security/14%20-%20DNSE-MailSecurity/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/14%20-%20DNSE-MailSecurity/writeup-it.md) |
 | 15 | QuantumTransportLayer       | TLS SNI/ALPN, SAN analysis       | [EN](Olicyber/OIC/Network%20Security/15%20-%20QuantumTransportLayer/writeup-en.md) · [IT](Olicyber/OIC/Network%20Security/15%20-%20QuantumTransportLayer/writeup-it.md) |
 
