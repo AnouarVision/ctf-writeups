@@ -11,6 +11,7 @@
 
 ---
 
+
 ## Competitions
 
 ### OliCyber
@@ -78,15 +79,25 @@
 
 *Coming soon.*
 
-</details>
+ </details>
+
+
+### ITSCyberGame
 
 <details>
-<summary><b>OliCyber 2021</b></summary>
+<summary><b>ITASEC 2025</b></summary>
 
-*Coming soon.*
+| Category   | Challenge         | Technique / Note         | Writeup |
+|------------|-------------------|--------------------------|---------|
+| Misc       | Decode            | Hidden QR in image       | [EN](ITSCyberGame/ITASEC_2025/Misc/Decode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/Decode/writeup-it.md) |
+| Misc       | The Legend of the Hidden Code | Metadata (Exif)         | [EN](ITSCyberGame/ITASEC_2025/Misc/TheLegendOfTheHiddenCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/TheLegendOfTheHiddenCode/writeup-it.md) |
+| Misc       | Misty Morning     | Bit plane (Blue channel) | [EN](ITSCyberGame/ITASEC_2025/Misc/MistyMorning/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/MistyMorning/writeup-it.md) |
+| Crypto     | Mystery Code      | ROT13 substitution       | [EN](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-it.md) |
 
 </details>
+
 ---
+
 
 ## Repository Structure
 
