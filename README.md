@@ -95,6 +95,8 @@
 | Crypto     | Mystery Code      | ROT13 substitution       | [EN](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-it.md) |
 | Misc       | Dreams Within Dreams | Strings in image file    | [EN](ITSCyberGame/ITASEC_2025/Misc/DreamsWithinDreams/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/DreamsWithinDreams/writeup-it.md) |
 | Crypto     | Grand Valse         | T9 predictive text cipher| [EN](ITSCyberGame/ITASEC_2025/Cripto/GrandValse/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/GrandValse/writeup-it.md) |
+| Web        | There Is No Spoon    | Acrostic in HTML comment | [EN](ITSCyberGame/ITASEC_2025/Web/ThereIsNoSpoon/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Web/ThereIsNoSpoon/writeup-it.md) |
+| Crypto     | The Signal           | Binary Morse, Base64, ROT47 | [EN](ITSCyberGame/ITASEC_2025/Cripto/TheSignal/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/TheSignal/writeup-it.md) |
 
 </details>
 
