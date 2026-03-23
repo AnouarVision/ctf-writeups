@@ -93,7 +93,6 @@
 | Misc       | The Legend of the Hidden Code | Metadata (Exif)         | [EN](ITSCyberGame/ITASEC_2025/Misc/TheLegendOfTheHiddenCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/TheLegendOfTheHiddenCode/writeup-it.md) |
 | Misc       | Misty Morning     | Bit plane (Blue channel) | [EN](ITSCyberGame/ITASEC_2025/Misc/MistyMorning/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/MistyMorning/writeup-it.md) |
 | Crypto     | Mystery Code      | ROT13 substitution       | [EN](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-it.md) |
-
 | Misc       | Dreams Within Dreams | Strings in image file    | [EN](ITSCyberGame/ITASEC_2025/Misc/DreamsWithinDreams/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/DreamsWithinDreams/writeup-it.md) |
 | Crypto     | Grand Valse         | T9 predictive text cipher| [EN](ITSCyberGame/ITASEC_2025/Cripto/GrandValse/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/GrandValse/writeup-it.md) |
 
