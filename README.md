@@ -92,14 +92,14 @@
 | Misc       | Decode            | Hidden QR in image       | [EN](ITSCyberGame/ITASEC_2025/Misc/Decode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/Decode/writeup-it.md) |
 | Misc       | The Legend of the Hidden Code | Metadata (Exif)         | [EN](ITSCyberGame/ITASEC_2025/Misc/TheLegendOfTheHiddenCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/TheLegendOfTheHiddenCode/writeup-it.md) |
 | Misc       | Misty Morning     | Bit plane (Blue channel) | [EN](ITSCyberGame/ITASEC_2025/Misc/MistyMorning/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/MistyMorning/writeup-it.md) |
-| Crypto     | Mystery Code      | ROT13 substitution       | [EN](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/MisteryCode/writeup-it.md) |
+| Crypto     | Mystery Code      | ROT13 substitution       | [EN](ITSCyberGame/ITASEC_2025/Crypto/MisteryCode/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Crypto/MisteryCode/writeup-it.md) |
 | Misc       | Dreams Within Dreams | Strings in image file    | [EN](ITSCyberGame/ITASEC_2025/Misc/DreamsWithinDreams/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/DreamsWithinDreams/writeup-it.md) |
-| Crypto     | Grand Valse         | T9 predictive text cipher| [EN](ITSCyberGame/ITASEC_2025/Cripto/GrandValse/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/GrandValse/writeup-it.md) |
+| Crypto     | Grand Valse         | T9 predictive text cipher| [EN](ITSCyberGame/ITASEC_2025/Crypto/GrandValse/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Crypto/GrandValse/writeup-it.md) |
 | Web        | There Is No Spoon    | Acrostic in HTML comment | [EN](ITSCyberGame/ITASEC_2025/Web/ThereIsNoSpoon/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Web/ThereIsNoSpoon/writeup-it.md) |
-| Crypto     | The Signal           | Binary Morse, Base64, ROT47 | [EN](ITSCyberGame/ITASEC_2025/Cripto/TheSignal/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/TheSignal/writeup-it.md) |
+| Crypto     | The Signal           | Binary Morse, Base64, ROT47 | [EN](ITSCyberGame/ITASEC_2025/Crypto/TheSignal/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Crypto/TheSignal/writeup-it.md) |
 | Misc       | The 1337 Vault      | Nested 7z extraction        | [EN](ITSCyberGame/ITASEC_2025/Misc/The1337Vault/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/The1337Vault/writeup-it.md) |
 | Misc       | Corrupted Memories  | Corrupted PNG header fix    | [EN](ITSCyberGame/ITASEC_2025/Misc/CorruptedMemories/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Misc/CorruptedMemories/writeup-it.md) |
-| Crypto     | The Answer to the Ultimate Question of File | Single-byte XOR (key=42) | [EN](ITSCyberGame/ITASEC_2025/Cripto/TheAnswerToTheUltimateQuestionOfFile/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Cripto/TheAnswerToTheUltimateQuestionOfFile/writeup-it.md) |
+| Crypto     | The Answer to the Ultimate Question of File | Single-byte XOR (key=42) | [EN](ITSCyberGame/ITASEC_2025/Crypto/TheAnswerToTheUltimateQuestionOfFile/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Crypto/TheAnswerToTheUltimateQuestionOfFile/writeup-it.md) |
 | Web        | Stairway to Flag    | Client-side source inspection | [EN](ITSCyberGame/ITASEC_2025/Web/StairwayToFlag/writeup-en.md) · [IT](ITSCyberGame/ITASEC_2025/Web/StairwayToFlag/writeup-it.md) |
 
 </details>
