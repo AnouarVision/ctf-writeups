@@ -1,7 +1,7 @@
 # Mystery Code
 
 **Competition:** ITSCyberGame<br>
-**Category:** Cryptography<br>
+**Category:** Crypto<br>
 
 ---
 

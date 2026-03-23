@@ -1,7 +1,7 @@
 # Grande Valse
 
 **Competizione:** ITSCyberGame<br>
-**Categoria:** Crittografia<br>
+**Categoria:** Crypto<br>
 
 ---
 

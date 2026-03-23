@@ -1,7 +1,7 @@
 # The Signal
 
 **Competizione:** ITSCyberGame<br>
-**Categoria:** Crittografia<br>
+**Categoria:** Crypto<br>
 **File**: the_signal.txt
 
 ---
