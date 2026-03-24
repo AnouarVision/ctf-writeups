@@ -130,7 +130,13 @@
 <details>
 <summary><b>2a_Giornata</b></summary>
 
-Web challenges (folder present, writeups coming soon).
+| Category | Challenge | Technique / Note | Writeup |
+|----------|-----------|------------------|---------|
+| Crypto   | TheGroceryLeak | Repeated-key XOR; key hidden in ODS prices | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Crypto/TheGroceryLeak/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Crypto/TheGroceryLeak/writeup-it.md) |
+| Misc     | Six76Seven | Audio stego / LSB or appended data | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Misc/Six76Seven/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Misc/Six76Seven/writeup-it.md) |
+| Pwn      | CorruptedCode | Noisy text parsing; regex + automation | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Pwn/CorruptedCode/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Pwn/CorruptedCode/writeup-it.md) |
+| SSH      | GhostInTheLogs | Logs exposure; base64 in syslog | [EN](ITSCyberGame/Girone_2026/2a_Giornata/SSH/GhostInTheLogs/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/SSH/GhostInTheLogs/writeup-it.md) |
+| Web      | *Folder present, writeups coming soon* | — | (coming soon) |
 
 </details>
 
