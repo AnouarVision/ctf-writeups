@@ -115,9 +115,15 @@
 |----------|-----------|------------------|---------|
 | Misc    | Fischietto | PNG stego + WAV (Morse) | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Misc/Fischietto/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Misc/Fischietto/writeup-it.md) |
 | OSINT   | SubWaySurfer | Google-indexed comments; Base64 then ROT13 | [EN](ITSCyberGame/Girone_2026/1a_Giornata/OSINT/SubWaySurfer/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/OSINT/SubWaySurfer/writeup-it.md) |
+| Web     | BZZZZZ! | API chaining; session cookies & header manipulation | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Web/BZZZZZ!/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Web/BZZZZZ!/writeup-it.md) |
 | SSH     | Bosh | Bash alias misdirection; bypass with absolute paths; hidden dotfiles | [EN](ITSCyberGame/Girone_2026/1a_Giornata/SSH/Bosh/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/SSH/Bosh/writeup-it.md) |
+| SSH     | FollowTheRainbow | `PROMPT_COMMAND` inspection; investigate non-standard binaries (`/usr/local/bin/color-changer`) | [EN](ITSCyberGame/Girone_2026/1a_Giornata/SSH/FollowTheRainbow/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/SSH/FollowTheRainbow/writeup-it.md) |
+| OSINT   | Deep Dive | SQLite forensics; hex + Base64 decoding | [EN](ITSCyberGame/Girone_2026/1a_Giornata/OSINT/DeepDive/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/OSINT/DeepDive/writeup-it.md) |
 | Web     | IlPiccoloNegozioOnline | Base64 cookie tampering / client-side cookie manipulation | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Web/IlPiccoloNegozioOnline/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Web/IlPiccoloNegozioOnline/writeup-it.md) |
+| Misc    | Ma che bello era il 2013... | Zip password cracking (rockyou); hex decode | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Misc/MaCheBelloEraIl2013/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Misc/MaCheBelloEraIl2013/writeup-it.md) |
 | Software| OrbitalDecay | UTF-16LE in .rodata | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Software/OrbitalDecay/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Software/OrbitalDecay/writeup-it.md) |
+| Software| WhoAreYou | Buffer overflow + null byte injection | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Software/WhoAreYou/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Software/WhoAreYou/writeup-it.md) |
+| Network | NetworkSpy | Writeup coming soon | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Network/NetworkSpy/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Network/NetworkSpy/writeup-it.md) |
 
 </details>
 
