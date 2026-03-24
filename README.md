@@ -104,8 +104,40 @@
 
 </details>
 
----
 
+<details>
+<summary><b>Girone 2026</b></summary>
+
+<details>
+<summary><b>1a_Giornata</b></summary>
+
+| Category | Challenge | Technique / Note | Writeup |
+|----------|-----------|------------------|---------|
+| Misc    | Fischietto | PNG stego + WAV (Morse) | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Misc/Fischietto/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Misc/Fischietto/writeup-it.md) |
+| OSINT   | SubWaySurfer | — | [EN](ITSCyberGame/Girone_2026/1a_Giornata/OSINT/SubWaySurfer/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/OSINT/SubWaySurfer/writeup-it.md) |
+| SSH     | Bosh | — | [EN](ITSCyberGame/Girone_2026/1a_Giornata/SSH/Bosh/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/SSH/Bosh/writeup-it.md) |
+| Web     | IlPiccoloNegozioOnline | — | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Web/IlPiccoloNegozioOnline/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Web/IlPiccoloNegozioOnline/writeup-it.md) |
+| Software| OrbitalDecay | UTF-16LE in .rodata | [EN](ITSCyberGame/Girone_2026/1a_Giornata/Software/OrbitalDecay/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/1a_Giornata/Software/OrbitalDecay/writeup-it.md) |
+
+</details>
+
+<details>
+<summary><b>2a_Giornata</b></summary>
+
+Web challenges (folder present, writeups coming soon).
+
+</details>
+
+<details>
+<summary><b>3a_Giornata</b></summary>
+
+Web challenges (folder present, writeups coming soon).
+
+</details>
+
+</details>
+
+---
 
 ## Repository Structure
 
