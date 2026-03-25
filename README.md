@@ -134,9 +134,14 @@
 |----------|-----------|------------------|---------|
 | Crypto   | TheGroceryLeak | Repeated-key XOR; key hidden in ODS prices | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Crypto/TheGroceryLeak/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Crypto/TheGroceryLeak/writeup-it.md) |
 | Misc     | Six76Seven | Audio stego / LSB or appended data | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Misc/Six76Seven/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Misc/Six76Seven/writeup-it.md) |
+| Misc     | IlBackupSbagliato | Encrypted backup / hardcoded creds | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Misc/IlBackupSbagliato/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Misc/IlBackupSbagliato/writeup-it.md) |
 | Pwn      | CorruptedCode | Noisy text parsing; regex + automation | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Pwn/CorruptedCode/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Pwn/CorruptedCode/writeup-it.md) |
 | SSH      | GhostInTheLogs | Logs exposure; base64 in syslog | [EN](ITSCyberGame/Girone_2026/2a_Giornata/SSH/GhostInTheLogs/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/SSH/GhostInTheLogs/writeup-it.md) |
-| Web      | *Folder present, writeups coming soon* | — | (coming soon) |
+| SSH      | HawkinsLab | Upside-down SSH key; unicode fix | [EN](ITSCyberGame/Girone_2026/2a_Giornata/SSH/HawkinsLab/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/SSH/HawkinsLab/writeup-it.md) |
+| Web      | PlayStation.Store | Client-side promo + cookie tampering | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Web/PlaystationStore/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Web/PlaystationStore/writeup-it.md) |
+| Software | TheSecretShop | PCAP for creds; hidden dev endpoint | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Software/TheSecretShop/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Software/TheSecretShop/writeup-it.md) |
+| Software | WhoAreYou2 | Ret2win with null byte trick | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Software/WhoAreYou2/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Software/WhoAreYou2/writeup-it.md) |
+| Software | FerrisWheel | Cyclic additive cipher (Rust) | [EN](ITSCyberGame/Girone_2026/2a_Giornata/Software/FerrisWheel/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/2a_Giornata/Software/FerrisWheel/writeup-it.md) |
 
 </details>
 
