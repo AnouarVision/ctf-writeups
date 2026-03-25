@@ -148,8 +148,16 @@
 <details>
 <summary><b>3a_Giornata</b></summary>
 
-Web challenges (folder present, writeups coming soon).
+| Category | Challenge | Technique / Note | Writeup |
+|----------|-----------|------------------|---------|
+| Web      | Your money are safe (Bank) | SQL injection + IDOR | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Web/YourMoneyAreSafe(Bank)/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Web/YourMoneyAreSafe(Bank)/writeup-it.md) |
+| Web      | Enterprise Access Gateway v2.1 | `alg=none` token forgery | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Web/EnterpriseAccessGatewayv2.1/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Web/EnterpriseAccessGatewayv2.1/writeup-it.md) |
+| Crypto   | Fish | Many-Time Pad (XOR reuse) + weak password | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Crypto/Fish/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Crypto/Fish/writeup-it.md) |
+| Network  | But it was cheap! | PCAP analysis; ONVIF / Base64 exfiltration | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Network/ButItWasCheap/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Network/ButItWasCheap/writeup-it.md) |
+| Software | BackupUnlocker | Static binary analysis; runtime string encoder + Vigenère-like transform | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Software/BackupUnlocker/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Software/BackupUnlocker/writeup-it.md) |
+| Software | EmojiCipher | — | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Software/EmojiCipher/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Software/EmojiCipher/writeup-it.md) |
 
+</details>
 </details>
 
 </details>
