@@ -77,7 +77,10 @@
 <details>
 <summary><b>OIC — Misc</b></summary>
 
-*Coming soon.*
+| #  | Challenge    | Technique                     | Writeup |
+|----|--------------|-------------------------------|---------|
+| 01 | Bright Sun   | Visual steganography (highlights) | [EN](Olicyber/OIC/Misc/01%20-%20BrightSun/writeup-en.md) · [IT](Olicyber/OIC/Misc/01%20-%20BrightSun/writeup-it.md) |
+| 03 | Dashed       | Multi-layer encoding (Morse → hex/binary → Base64 → ROT13) | [EN](Olicyber/OIC/Misc/03%20-%20Dashed/writeup-en.md) · [IT](Olicyber/OIC/Misc/03%20-%20Dashed/writeup-it.md) |
 
  </details>
 
