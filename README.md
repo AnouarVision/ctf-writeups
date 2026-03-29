@@ -159,6 +159,7 @@
 | Network  | But it was cheap! | PCAP analysis; ONVIF / Base64 exfiltration | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Network/ButItWasCheap/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Network/ButItWasCheap/writeup-it.md) |
 | Software | BackupUnlocker | Static binary analysis; runtime string encoder + Vigenère-like transform | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Software/BackupUnlocker/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Software/BackupUnlocker/writeup-it.md) |
 | Software | EmojiCipher | — | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Software/EmojiCipher/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Software/EmojiCipher/writeup-it.md) |
+| Misc    | Emergency Access | Restricted shell; hidden DEBUG command and trivial arithmetic unlock | [EN](ITSCyberGame/Girone_2026/3a_Giornata/Misc/EmergencyAccess/writeup-en.md) · [IT](ITSCyberGame/Girone_2026/3a_Giornata/Misc/EmergencyAccess/writeup-it.md) |
 
 </details>
 </details>
