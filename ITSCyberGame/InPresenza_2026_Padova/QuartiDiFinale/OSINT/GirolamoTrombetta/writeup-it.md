@@ -1,6 +1,6 @@
 # Girolamo Trombetta
 
-**Competizione:** ITSCyberGame
+**Competizione:** ITSCyberGame <br>
 **Categoria:** OSINT
 
 ---
