@@ -1,7 +1,7 @@
 # labyrinth_protocol
 
-**Competition:** ITSCyberGame
-**Category:** Software
+**Competition:** ITSCyberGame <br>
+**Category:** Software <br>
 **Service:** `./labyrinth_protocol <sync_key>`
 
 ---
@@ -69,7 +69,7 @@ e = (r * 2 | 0x266f81bc) - (r ^ 0x1337c0de)
 
 ### 3. Exploit
 
-Each 32-bit chunk is independent: enumerate the full `[0, 2^32)` space using NumPy vectorized operations. A helper script Script: [labyrinth_protocol.py](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Software/LabyrinthProtocol/labyrinth_protocol.py) in the same folder performs the enumeration and reconstructs the key.
+Each 32-bit chunk is independent: enumerate the full `[0, 2^32)` space using NumPy vectorized operations. A helper script [labyrinth_protocol.py](./labyrinth_protocol.py) in the same folder performs the enumeration and reconstructs the key.
 
 Run:
 

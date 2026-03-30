@@ -1,7 +1,7 @@
 # labyrinth_protocol
 
-**Competizione:** ITSCyberGame
-**Categoria:** Software
+**Competizione:** ITSCyberGame <br>
+**Categoria:** Software <br>
 **Servizio:** `./labyrinth_protocol <sync_key>`
 
 ---
@@ -67,7 +67,7 @@ e = (r * 2 | 0x266f81bc) - (r ^ 0x1337c0de)
 ```
 
 ### 3. Exploit
-Ogni chunk a 32-bit è indipendente: lo script di supporto [labyrinth_protocol.py](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Software/LabyrinthProtocol/labyrinth_protocol.py) nella stessa cartella effettua l'enumerazione vettorizzata (NumPy) e ricostruisce la chiave.
+Ogni chunk a 32-bit è indipendente: lo script di supporto [labyrinth_protocol.py](./labyrinth_protocol.py) nella stessa cartella effettua l'enumerazione vettorizzata (NumPy) e ricostruisce la chiave.
 
 Eseguire:
 
