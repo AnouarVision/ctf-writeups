@@ -166,6 +166,36 @@
 
 </details>
 
+<details>
+<summary><b>In presenza 2026 PADOVA</b></summary>
+
+<details>
+<summary><b>Quarti di Finale</b></summary>
+
+| Category | Challenge | Technique / Note | Writeup |
+|----------|-----------|------------------|---------|
+| Misc     | The Insider Threat | Forensic DB analysis (SQLite) | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/writeup-it.md) |
+
+</details>
+
+<details>
+<summary><b>Semifinale</b></summary>
+
+| Category | Challenge | Technique / Note | Writeup |
+|----------|-----------|------------------|---------|
+
+</details>
+
+<details>
+<summary><b>Finale</b></summary>
+
+| Category | Challenge | Technique / Note | Writeup |
+|----------|-----------|------------------|---------|
+
+</details>
+
+</details>
+
 ---
 
 ## Repository Structure
