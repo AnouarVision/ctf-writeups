@@ -120,12 +120,12 @@ All alerts remained `resolved = 0`; SOC did not respond in real time.
 
 ### 5. Exploit / reconstruction
 
-The helper script [the_insider_threat.py](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py) in the challenge folder contains the Python used to compute the flag from `datavault_incident.db`.
+The helper script [/ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py](/ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py) in the challenge folder contains the Python used to compute the flag from `datavault_incident.db`.
 
 Run it as follows:
 
 ```bash
-python the_insider_threat.py datavault_incident.db
+python3 the_insider_threat.py datavault_incident.db
 ```
 
 The script prints the flag to stdout.

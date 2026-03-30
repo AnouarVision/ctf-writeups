@@ -116,12 +116,12 @@ Tutti gli alert erano `resolved = 0`, il SOC non ha risposto in tempo reale.
 
 ### 5. Exploit / Ricostruzione
 
-Lo script Python [the_insider_threat.py](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py) nella cartella della challenge contiene il codice utilizzato per calcolare la flag da `datavault_incident.db`.
+Lo script Python [/ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py](/ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py) nella cartella della challenge contiene il codice utilizzato per calcolare la flag da `datavault_incident.db`.
 
 Esegui:
 
 ```bash
-python the_insider_threat.py datavault_incident.db
+python3 the_insider_threat.py datavault_incident.db
 ```
 
 Lo script stampa la flag su stdout.
