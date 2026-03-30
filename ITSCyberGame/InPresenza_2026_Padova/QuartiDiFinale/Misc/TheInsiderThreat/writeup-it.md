@@ -1,7 +1,7 @@
 # The Insider Threat
 
-**Competizione:** ITSCyberGame
-**Categoria:** Misc
+**Competizione:** ITSCyberGame <br>
+**Categoria:** Misc <br>
 **Servizio:** `datavault_incident.db`
 
 ---
@@ -116,33 +116,15 @@ Tutti gli alert erano `resolved = 0`, il SOC non ha risposto in tempo reale.
 
 ### 5. Exploit / Ricostruzione
 
-```python
-import sqlite3
-from datetime import datetime
+Lo script Python [the_insider_threat.py](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/the_insider_threat.py) nella cartella della challenge contiene il codice utilizzato per calcolare la flag da `datavault_incident.db`.
 
-conn = sqlite3.connect('datavault_incident.db')
-cur = conn.cursor()
+Esegui:
 
-cur.execute("""
-    SELECT e.first_name, e.last_name, ft.timestamp, ft.protocol, ft.destination_ip
-    FROM file_transfers ft
-    JOIN employees e ON e.id = ft.employee_id
-    WHERE ft.destination_ip IS NOT NULL
-      AND ft.proxy_used = 0
-      AND ft.file_size_mb > 500
-    ORDER BY ft.timestamp DESC
-    LIMIT 1
-""")
-row = cur.fetchone()
-nome, cognome, ts, proto, ip = row
-
-dt = datetime.strptime(ts, '%Y-%m-%d %H:%M:%S')
-last_octet = ip.split('.')[-1]
-
-flag = f"flag{{{nome.lower()}_{cognome.lower()}_{dt.strftime('%Y%m%d_%H%M')}_{proto}_{last_octet}}}"
-print(flag)
-# Output: flag{...}
+```bash
+python the_insider_threat.py datavault_incident.db
 ```
+
+Lo script stampa la flag su stdout.
 
 ---
 
