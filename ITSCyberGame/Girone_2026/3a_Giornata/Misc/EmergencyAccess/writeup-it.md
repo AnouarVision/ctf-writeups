@@ -1,7 +1,7 @@
 # Emergency Access
 
-**Competizione:** ITSCyberGame
-**Categoria:** Misc
+**Competizione:** ITSCyberGame <br>
+**Categoria:** Misc <br>
 **Servizio:** `sfide.itscybergame.it:<port_number>`
 
 ---
