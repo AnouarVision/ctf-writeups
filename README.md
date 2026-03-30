@@ -175,6 +175,7 @@
 | Category | Challenge | Technique / Note | Writeup |
 |----------|-----------|------------------|---------|
 | Misc     | The Insider Threat | Forensic DB analysis (SQLite) | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/writeup-it.md) |
+| Web      | Workflow Runner    | Insecure Python pickle deserialization → RCE | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Web/WorkflowRunner/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Web/WorkflowRunner/writeup-it.md) |
 
 </details>
 
