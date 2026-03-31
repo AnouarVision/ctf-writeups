@@ -1,7 +1,7 @@
 # HOLD IT!
 
-**Competizione:** ITSCyberGame
-**Categoria:** Web
+**Competizione:** ITSCyberGame <br>
+**Categoria:** Web <br>
 **Servizio:** `sfide.itscybergame.it:<port_number>`
 
 ---
