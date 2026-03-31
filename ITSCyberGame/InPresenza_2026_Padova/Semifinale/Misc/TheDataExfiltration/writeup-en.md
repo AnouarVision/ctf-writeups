@@ -1,6 +1,6 @@
 # The Data Exfiltration
-**Competition:** ITSCyberGame
-**Category:** Misc
+**Competition:** ITSCyberGame <br>
+**Category:** Misc <br>
 **Service:** cloudbank_exfiltration.db (SQLite)
 
 ---
