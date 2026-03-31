@@ -178,6 +178,7 @@
 | Misc     | The Insider Threat | Forensic DB analysis (SQLite) | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Misc/TheInsiderThreat/writeup-it.md) |
 | Web      | Workflow Runner    | Insecure Python pickle deserialization → RCE | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Web/WorkflowRunner/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Web/WorkflowRunner/writeup-it.md) |
 | SSH      | Internal Service   | SSH key crack → internal HTTP access | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/SSH/InternalService/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/SSH/InternalService/writeup-it.md) |
+| Network  | We Are Under Attack! | PCAP analysis; blind boolean-based SQLi extraction | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Network/WeAreUnderAttack/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Network/WeAreUnderAttack/writeup-it.md) |
 | Software | Labyrinth Protocol | Custom verification reverse → chunk enumeration | [EN](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Software/LabyrinthProtocol/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/QuartiDiFinale/Software/LabyrinthProtocol/writeup-it.md) |
 
 </details>
