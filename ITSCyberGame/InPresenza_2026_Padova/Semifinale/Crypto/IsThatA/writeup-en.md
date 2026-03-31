@@ -1,7 +1,7 @@
 # Is that a...?
 
-**Competition:** ITSCyberGame  
-**Category:** Crypto  
+**Competition:** ITSCyberGame <br>
+**Category:** Crypto <br>
 **File:** `pdf.csv`
 
 ---

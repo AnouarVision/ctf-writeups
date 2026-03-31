@@ -1,7 +1,7 @@
 # Shuffled Snapshot
 
-**Competition:** ITSCyberGame
-**Category:** Crypto
+**Competition:** ITSCyberGame <br>
+**Category:** Crypto <br>
 **Files:** `snapshot.bin`, `pubkey.txt`
 
 ---
