@@ -191,6 +191,7 @@
 |----------|-----------|------------------|---------|
 | Crypto   | Is that a...? | False extension (magic bytes), PNG chunk metadata, AES-ZIP appended after IEND, LSB stego | [EN](ITSCyberGame/InPresenza_2026_Padova/Semifinale/Crypto/IsThatA/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/Semifinale/Crypto/IsThatA/writeup-it.md) |
 | Misc     | Matrix    | Obfuscated client-side JS; hardcoded arrays reveal flag | [EN](ITSCyberGame/InPresenza_2026_Padova/Semifinale/Misc/Matrix/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/Semifinale/Misc/Matrix/writeup-it.md) |
+| Misc     | The Data Exfiltration | Accidental API key commit → mass exfiltration; correlate git/logs/S3/billing | [EN](ITSCyberGame/InPresenza_2026_Padova/Semifinale/Misc/TheDataExfiltration/writeup-en.md) · [IT](ITSCyberGame/InPresenza_2026_Padova/Semifinale/Misc/TheDataExfiltration/writeup-it.md) |
 
 </details>
 
