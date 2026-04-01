@@ -207,6 +207,17 @@
 
 </details>
 
+### FSCS
+
+<details>
+<summary><b>FCSC 2022 — Misc</b></summary>
+
+| #  | Challenge   | Technique / Note                | Writeup |
+|-----|-------------|---------------------------------|--------|
+| 01  | A l'envers  | Automation / string reversal    | [EN](FSCS/2022/Misc/AL'Envers/writeup-en.md) · [IT](FSCS/2022/Misc/AL'Envers/writeup-it.md) |
+
+</details>
+
 ---
 
 ## Repository Structure
