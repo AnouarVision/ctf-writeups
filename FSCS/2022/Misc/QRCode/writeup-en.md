@@ -1,7 +1,7 @@
 # QRCode
 
-**Competition:** FSCS 2022
-**Category:** Misc
+**Competition:** FSCS 2022 (intro) <br>
+**Category:** Misc <br>
 **File:** `flag.png`
 
 ---

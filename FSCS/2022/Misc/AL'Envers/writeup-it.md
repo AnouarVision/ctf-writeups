@@ -1,6 +1,6 @@
 # A l'envers
 
-**Competizione:** FCSC 2022 <br>
+**Competizione:** FCSC 2022 (intro)<br>
 **Categoria:** Misc <br>
 **Servizio:** localhost:4000
 
