@@ -220,8 +220,17 @@
 
 </details>
 
----
 
+<details>
+<summary><b>FCSC 2022 — Web</b></summary>
+
+| #  | Challenge | Technique / Note | Writeup |
+|----|-----------|------------------|--------|
+| 01 | Header    | HTTP header auth via custom header | [EN](FSCS/2022/Web/Header/writeup-en.md) · [IT](FSCS/2022/Web/Header/writeup-it.md) |
+
+</details>
+
+---
 ## Repository Structure
 
 ```
