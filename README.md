@@ -215,6 +215,7 @@
 | #  | Challenge   | Technique / Note                | Writeup |
 |-----|-------------|---------------------------------|--------|
 | 01  | A l'envers  | Automation / string reversal    | [EN](FSCS/2022/Misc/AL'Envers/writeup-en.md) · [IT](FSCS/2022/Misc/AL'Envers/writeup-it.md) |
+| 02  | QRCode      | QR repair — restore finder pattern centers | [EN](FSCS/2022/Misc/QRCode/writeup-en.md) · [IT](FSCS/2022/Misc/QRCode/writeup-it.md) |
 
 </details>
 
