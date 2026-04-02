@@ -230,6 +230,16 @@
 
 </details>
 
+
+<details>
+<summary><b>FCSC 2022 — Crypto</b></summary>
+
+| #  | Challenge   | Technique / Note                | Writeup |
+|-----|-------------|---------------------------------|--------|
+| 01  | A l'aise    | Vigenère (known key)            | [EN](FSCS/2022/Crypto/Al'Aise/writeup-en.md) · [IT](FSCS/2022/Crypto/Al'Aise/writeup-it.md) |
+
+</details>
+
 ---
 ## Repository Structure
 
