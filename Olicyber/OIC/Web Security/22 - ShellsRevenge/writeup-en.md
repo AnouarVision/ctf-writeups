@@ -1,7 +1,7 @@
 # Shells' Revenge
 
-**Competition:** OliCyber
-**Category:** Web
+**Competition:** OliCyber <br>
+**Category:** Web <br>
 **URL:** http://shellrevenge.challs.olicyber.it
 
 ---
