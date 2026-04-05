@@ -214,9 +214,9 @@
 
 | #  | Challenge   | Technique / Note                | Writeup |
 |-----|-------------|---------------------------------|--------|
-| 01  | A l'envers  | Automation / string reversal    | [EN](FSCS/2022/Misc/AL'Envers/writeup-en.md) · [IT](FSCS/2022/Misc/AL'Envers/writeup-it.md) |
-| 02  | QRCode      | QR repair — restore finder pattern centers | [EN](FSCS/2022/Misc/QRCode/writeup-en.md) · [IT](FSCS/2022/Misc/QRCode/writeup-it.md) |
-| 03  | Wi‑Fi       | WPA2 decryption / Wireshark (pcapng) | [EN](FSCS/2022/Misc/Wi-Fi/writeup-en.md) · [IT](FSCS/2022/Misc/Wi-Fi/writeup-it.md) |
+| 01  | A l'envers  | Automation / string reversal    | [EN](FCSC/2022/Misc/AL'Envers/writeup-en.md) · [IT](FCSC/2022/Misc/AL'Envers/writeup-it.md) |
+| 02  | QRCode      | QR repair — restore finder pattern centers | [EN](FCSC/2022/Misc/QRCode/writeup-en.md) · [IT](FCSC/2022/Misc/QRCode/writeup-it.md) |
+| 03  | Wi‑Fi       | WPA2 decryption / Wireshark (pcapng) | [EN](FCSC/2022/Misc/Wi-Fi/writeup-en.md) · [IT](FCSC/2022/Misc/Wi-Fi/writeup-it.md) |
 
 </details>
 
@@ -226,7 +226,7 @@
 
 | #  | Challenge | Technique / Note | Writeup |
 |----|-----------|------------------|--------|
-| 01 | Header    | HTTP header auth via custom header | [EN](FSCS/2022/Web/Header/writeup-en.md) · [IT](FSCS/2022/Web/Header/writeup-it.md) |
+| 01 | Header    | HTTP header auth via custom header | [EN](FCSC/2022/Web/Header/writeup-en.md) · [IT](FCSC/2022/Web/Header/writeup-it.md) |
 
 </details>
 
@@ -236,7 +236,7 @@
 
 | #  | Challenge   | Technique / Note                | Writeup |
 |-----|-------------|---------------------------------|--------|
-| 01  | A l'aise    | Vigenère (known key)            | [EN](FSCS/2022/Crypto/Al'Aise/writeup-en.md) · [IT](FSCS/2022/Crypto/Al'Aise/writeup-it.md) |
+| 01  | A l'aise    | Vigenère (known key)            | [EN](FCSC/2022/Crypto/Al'Aise/writeup-en.md) · [IT](FCSC/2022/Crypto/Al'Aise/writeup-it.md) |
 
 </details>
 
