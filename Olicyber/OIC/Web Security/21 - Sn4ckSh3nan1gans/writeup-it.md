@@ -1,7 +1,7 @@
 # Sn4ck sh3nan1gans
 
 **Competizione:** OliCyber<br>
-**Categoria:** Web / Authentication Bypass<br>
+**Categoria:** Web<br>
 **URL:** http://sn4ck-sh3nan1gans.challs.olicyber.it
 
 ---

@@ -1,7 +1,7 @@
 # Admin's Secret
 
 **Competizione:** OliCyber<br>
-**Categoria:** Web / SQL Injection / Authentication Bypass<br>
+**Categoria:** Web<br>
 **URL:** http://adminsecret.challs.olicyber.it
 
 ---
