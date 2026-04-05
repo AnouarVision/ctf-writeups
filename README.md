@@ -207,7 +207,7 @@
 
 </details>
 
-### FSCS
+### FCSC
 
 <details>
 <summary><b>FCSC 2022 — Misc</b></summary>
