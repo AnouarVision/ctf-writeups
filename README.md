@@ -45,9 +45,9 @@
 | 22 | ShellsRevenge    | File upload RCE             | [EN](Olicyber/OIC/Web%20Security/22%20-%20ShellsRevenge/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/22%20-%20ShellsRevenge/writeup-it.md) |
 | 23 | Admin's Secret   | SQL injection / Auth bypass | [EN](Olicyber/OIC/Web%20Security/23%20-%20Admin%27sSecret/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/23%20-%20Admin%27sSecret/writeup-it.md) |
 | 24 | TrulyRandomSignature | Predictable RNG seed     | [EN](Olicyber/OIC/Web%20Security/24%20-%20TrulyRandomSignature/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/24%20-%20TrulyRandomSignature/writeup-it.md) |
-| 25 | TIMP             | —                           | [EN](Olicyber/OIC/Web%20Security/25%20-%20TIMP/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/25%20-%20TIMP/writeup-it.md) |
-| 26 | IfYouHaveNoTimeJustDon'tWait | —               | [EN](Olicyber/OIC/Web%20Security/26%20-%20IfYouHaveNoTimeJustDon%27tWait/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/26%20-%20IfYouHaveNoTimeJustDon%27tWait/writeup-it.md) |
-| 27 | ShellsRevenge2   | —                           | [EN](Olicyber/OIC/Web%20Security/27%20-%20ShellsRevenge2/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/27%20-%20ShellsRevenge2/writeup-it.md) |
+| 25 | TIMP             | Command injection via cowsay | [EN](Olicyber/OIC/Web%20Security/25%20-%20TIMP/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/25%20-%20TIMP/writeup-it.md) |
+| 26 | IfYouHaveNoTimeJustDon'tWait | SQL injection (blacklist bypass) | [EN](Olicyber/OIC/Web%20Security/26%20-%20IfYouHaveNoTimeJustDon%27tWait/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/26%20-%20IfYouHaveNoTimeJustDon%27tWait/writeup-it.md) |
+| 27 | ShellsRevenge2   | File upload + LFI (RCE)     | [EN](Olicyber/OIC/Web%20Security/27%20-%20ShellsRevenge2/writeup-en.md) · [IT](Olicyber/OIC/Web%20Security/27%20-%20ShellsRevenge2/writeup-it.md) |
 
 </details>
 
