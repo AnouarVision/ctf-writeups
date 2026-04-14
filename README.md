@@ -85,6 +85,19 @@
  </details>
 
 
+<details>
+<summary><b>OIC — Crypto</b></summary>
+
+| #  | Challenge                            | Technique                 | Writeup |
+|----|--------------------------------------|---------------------------|---------|
+| 02 | TutteLeStradePortanoARoma            | Caesar cipher (ROT shift) | [EN](Olicyber/OIC/Crypto/02%20-%20TutteLeStradePortanoARoma/writeup-en.md) · [IT](Olicyber/OIC/Crypto/02%20-%20TutteLeStradePortanoARoma/writeup-it.md) |
+| 03 | CryptingOnStructure                  | Baconian cipher (A/B)     | [EN](Olicyber/OIC/Crypto/03%20-%20CryptingOnStructure/writeup-en.md) · [IT](Olicyber/OIC/Crypto/03%20-%20CryptingOnStructure/writeup-it.md) |
+| 05 | 1337_XOR                            | Repeated-key XOR (known plaintext) | [EN](Olicyber/OIC/Crypto/05%20-%201337_XOR/writeup-en.md) · [IT](Olicyber/OIC/Crypto/05%20-%201337_XOR/writeup-it.md) |
+| 06 | SecureKeyGenerator                  | Weak PRNG (timestamp) + AES-OFB | [EN](Olicyber/OIC/Crypto/06%20-%20SecureKeyGenerator/writeup-en.md) · [IT](Olicyber/OIC/Crypto/06%20-%20SecureKeyGenerator/writeup-it.md) |
+
+</details>
+
+
 ### ITSCyberGame
 
 <details>
