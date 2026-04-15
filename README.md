@@ -17,7 +17,10 @@
 ### OliCyber
 
 <details>
-<summary><b>OIC — Web Security</b></summary>
+<summary><b>OIC</b></summary>
+
+<details>
+<summary><b>Web Security</b></summary>
 
 | #  | Challenge        | Technique                  | Writeup |
 |----|------------------|----------------------------|---------|
@@ -52,7 +55,7 @@
 </details>
 
 <details>
-<summary><b>OIC — Network Security</b></summary>
+<summary><b>Network Security</b></summary>
 
 | #  | Challenge                   | Technique                        | Writeup |
 |----|-----------------------------|----------------------------------|---------|
@@ -75,7 +78,7 @@
 </details>
 
 <details>
-<summary><b>OIC — Misc</b></summary>
+<summary><b>Misc</b></summary>
 
 | #  | Challenge    | Technique                     | Writeup |
 |----|--------------|-------------------------------|---------|
@@ -86,7 +89,7 @@
 
 
 <details>
-<summary><b>OIC — Crypto</b></summary>
+<summary><b>Crypto</b></summary>
 
 | #  | Challenge                            | Technique                 | Writeup |
 |----|--------------------------------------|---------------------------|---------|
@@ -100,6 +103,7 @@
 
 </details>
 
+</details>
 
 ### ITSCyberGame
 
