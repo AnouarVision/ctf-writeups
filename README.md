@@ -27,6 +27,8 @@
 | 07 | PyCryptutorial 1                    | PyCryptodome examples (DES/AES/ChaCha20) | [EN](Olicyber/Introduzione/Crypto/07%20-%20PyCryptutotial1/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/07%20-%20PyCryptutotial1/writeup-it.md) |
 | 08 | Congruenze Modulari                | Modular congruences       | [EN](Olicyber/Introduzione/Crypto/08%20-%20CongruenzeModulari/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/08%20-%20CongruenzeModulari/writeup-it.md) |
 | 09 | Inverso Modulare                   | Modular inverse / extended Euclid | [EN](Olicyber/Introduzione/Crypto/09%20-%20InversoModulare/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/09%20-%20InversoModulare/writeup-it.md) |
+| 10 | CRT                                | Chinese Remainder Theorem  | [EN](Olicyber/Introduzione/Crypto/10%20-%20CRT/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/10%20-%20CRT/writeup-it.md) |
+| 11 | RSA Helpline                       | RSA basics                | [EN](Olicyber/Introduzione/Crypto/11%20-%20RSAHelpline/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/11%20-%20RSAHelpline/writeup-it.md) |
 
 </details>
 </details>
@@ -115,6 +117,7 @@
 | 08 | Classic Cipher                      | Rotor-like evolving key     | [EN](Olicyber/OIC/Crypto/08%20-%20ClassicCipher/writeup-en.md) · [IT](Olicyber/OIC/Crypto/08%20-%20ClassicCipher/writeup-it.md) |
 | 11 | VeryStrongVigenere                  | Vigenère (known plaintext) | [EN](Olicyber/OIC/Crypto/11%20-%20VeryStrongVigenere/writeup-en.md) · [IT](Olicyber/OIC/Crypto/11%20-%20VeryStrongVigenere/writeup-it.md) |
 | 18 | I like hashes                       | Per-character SHA-256 (rainbow) | [EN](Olicyber/OIC/Crypto/18%20-%20ILikeHashes/writeup-en.md) · [IT](Olicyber/OIC/Crypto/18%20-%20ILikeHashes/writeup-it.md) |
+
 
 </details>
 
