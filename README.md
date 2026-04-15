@@ -15,6 +15,21 @@
 ## Competitions
 
 ### OliCyber
+<details>
+<summary><b>Introduzione</b></summary>
+
+<details>
+<summary><b>Crypto</b></summary>
+
+| #  | Challenge                            | Technique                 | Writeup |
+|----|--------------------------------------|---------------------------|---------|
+| 06 | One More Time Please                 | Many-Time Pad (XOR reuse) | [EN](Olicyber/Introduzione/Crypto/06%20-%20OneMoreTimePlease/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/06%20-%20OneMoreTimePlease/writeup-it.md) |
+| 07 | PyCryptutorial 1                    | PyCryptodome examples (DES/AES/ChaCha20) | [EN](Olicyber/Introduzione/Crypto/07%20-%20PyCryptutotial1/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/07%20-%20PyCryptutotial1/writeup-it.md) |
+| 08 | Congruenze Modulari                | Modular congruences       | [EN](Olicyber/Introduzione/Crypto/08%20-%20CongruenzeModulari/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/08%20-%20CongruenzeModulari/writeup-it.md) |
+| 09 | Inverso Modulare                   | Modular inverse / extended Euclid | [EN](Olicyber/Introduzione/Crypto/09%20-%20InversoModulare/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/09%20-%20InversoModulare/writeup-it.md) |
+
+</details>
+</details>
 
 <details>
 <summary><b>OIC</b></summary>
