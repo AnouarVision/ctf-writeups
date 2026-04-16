@@ -29,6 +29,9 @@
 | 09 | Inverso Modulare                   | Modular inverse / extended Euclid | [EN](Olicyber/Introduzione/Crypto/09%20-%20InversoModulare/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/09%20-%20InversoModulare/writeup-it.md) |
 | 10 | CRT                                | Chinese Remainder Theorem  | [EN](Olicyber/Introduzione/Crypto/10%20-%20CRT/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/10%20-%20CRT/writeup-it.md) |
 | 11 | RSA Helpline                       | RSA basics                | [EN](Olicyber/Introduzione/Crypto/11%20-%20RSAHelpline/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/11%20-%20RSAHelpline/writeup-it.md) |
+| 12 | DHelpline                          | Diffie–Hellman / DLP      | [EN](Olicyber/Introduzione/Crypto/12%20-%20DHelpline/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/12%20-%20DHelpline/writeup-it.md) |
+| 13 | A Diffiecult Communication         | DH parameters + AES‑CBC   | [EN](Olicyber/Introduzione/Crypto/13%20-%20ADiffiecultCommunication/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/13%20-%20ADiffiecultCommunication/writeup-it.md) |
+| 14 | PyCryptutorial 2                   | PyCryptodome: hash/HMAC/DSA/primality | [EN](Olicyber/Introduzione/Crypto/14%20-%20PyCryptutorial2/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/14%20-%20PyCryptutorial2/writeup.it.md) |
 
 </details>
 </details>
