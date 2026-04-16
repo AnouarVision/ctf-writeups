@@ -120,11 +120,27 @@
 |----|--------------------------------------|---------------------------|---------|
 | 02 | TutteLeStradePortanoARoma            | Caesar cipher (ROT shift) | [EN](Olicyber/OIC/Crypto/02%20-%20TutteLeStradePortanoARoma/writeup-en.md) · [IT](Olicyber/OIC/Crypto/02%20-%20TutteLeStradePortanoARoma/writeup-it.md) |
 | 03 | CryptingOnStructure                  | Baconian cipher (A/B)     | [EN](Olicyber/OIC/Crypto/03%20-%20CryptingOnStructure/writeup-en.md) · [IT](Olicyber/OIC/Crypto/03%20-%20CryptingOnStructure/writeup-it.md) |
+| 04 | CorruptedKeyExchange                 | DH params injection (g=1) | [EN](Olicyber/OIC/Crypto/04%20-%20CorruptedKeyExchange/writeup-en.md) · [IT](Olicyber/OIC/Crypto/04%20-%20CorruptedKeyExchange/writeup-it.md) |
 | 05 | 1337_XOR                            | Repeated-key XOR (known plaintext) | [EN](Olicyber/OIC/Crypto/05%20-%201337_XOR/writeup-en.md) · [IT](Olicyber/OIC/Crypto/05%20-%201337_XOR/writeup-it.md) |
 | 06 | SecureKeyGenerator                  | Weak PRNG (timestamp) + AES-OFB | [EN](Olicyber/OIC/Crypto/06%20-%20SecureKeyGenerator/writeup-en.md) · [IT](Olicyber/OIC/Crypto/06%20-%20SecureKeyGenerator/writeup-it.md) |
+| 07 | RSALaPrimaChiave                    | Textbook RSA (codebook)      | [EN](Olicyber/OIC/Crypto/07%20-%20RSALaPrimaChiave/writeup-en.md) · [IT](Olicyber/OIC/Crypto/07%20-%20RSALaPrimaChiave/writeup-it.md) |
 | 08 | Classic Cipher                      | Rotor-like evolving key     | [EN](Olicyber/OIC/Crypto/08%20-%20ClassicCipher/writeup-en.md) · [IT](Olicyber/OIC/Crypto/08%20-%20ClassicCipher/writeup-it.md) |
 | 11 | VeryStrongVigenere                  | Vigenère (known plaintext) | [EN](Olicyber/OIC/Crypto/11%20-%20VeryStrongVigenere/writeup-en.md) · [IT](Olicyber/OIC/Crypto/11%20-%20VeryStrongVigenere/writeup-it.md) |
 | 18 | I like hashes                       | Per-character SHA-256 (rainbow) | [EN](Olicyber/OIC/Crypto/18%20-%20ILikeHashes/writeup-en.md) · [IT](Olicyber/OIC/Crypto/18%20-%20ILikeHashes/writeup-it.md) |
+
+</details>
+
+<details>
+<summary><b>Software</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | Super Market  | integer overflow; ret2win via `flag()`    | [EN](Olicyber/OIC/Software/01%20-%20SuperMarket/writeup-en.md) · [IT](Olicyber/OIC/Software/01%20-%20SuperMarket/writeup-it.md) |
+| 02 | Hidden Variable | hidden `int[]` flag in `.data`         | [EN](Olicyber/OIC/Software/02%20-%20HiddenVariable/writeup-en.md) · [IT](Olicyber/OIC/Software/02%20-%20HiddenVariable/writeup-it.md) |
+
+</details>
+
+</details>
 
 
 </details>
