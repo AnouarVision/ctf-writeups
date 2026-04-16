@@ -23,6 +23,11 @@
 
 | #  | Challenge                            | Technique                 | Writeup |
 |----|--------------------------------------|---------------------------|---------|
+| 01 | Encoding 1                         | ASCII decoding            | [EN](Olicyber/Introduzione/Crypto/01%20-%20Encoding1/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/01%20-%20Encoding1/writeup-it.md) |
+| 02 | Encoding 2                         | Hex decode               | [EN](Olicyber/Introduzione/Crypto/02%20-%20Encoding2/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/02%20-%20Encoding2/writeup-it.md) |
+| 03 | Encoding 3                         | Base64 + big-endian int  | [EN](Olicyber/Introduzione/Crypto/03%20-%20Encoding3/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/03%20-%20Encoding3/writeup-it.md) |
+| 04 | XOR 1                              | XOR two hex messages     | [EN](Olicyber/Introduzione/Crypto/04%20-%20XOR1/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/04%20-%20XOR1/writeup-it.md) |
+| 05 | XOR 2                              | Single-byte XOR brute force | [EN](Olicyber/Introduzione/Crypto/05%20-%20XOR2/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/05%20-%20XOR2/writeup-it.md) |
 | 06 | One More Time Please                 | Many-Time Pad (XOR reuse) | [EN](Olicyber/Introduzione/Crypto/06%20-%20OneMoreTimePlease/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/06%20-%20OneMoreTimePlease/writeup-it.md) |
 | 07 | PyCryptutorial 1                    | PyCryptodome examples (DES/AES/ChaCha20) | [EN](Olicyber/Introduzione/Crypto/07%20-%20PyCryptutotial1/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/07%20-%20PyCryptutotial1/writeup-it.md) |
 | 08 | Congruenze Modulari                | Modular congruences       | [EN](Olicyber/Introduzione/Crypto/08%20-%20CongruenzeModulari/writeup-en.md) · [IT](Olicyber/Introduzione/Crypto/08%20-%20CongruenzeModulari/writeup-it.md) |
