@@ -26,6 +26,9 @@
 | 01 | Architetture  | Determine ELF architecture                | [EN](Olicyber/Introduzione/Software/01%20-%20Architetture/writeup-en.md) · [IT](Olicyber/Introduzione/Software/01%20-%20Architetture/writeup-it.md) |
 | 02 | Librerie      | Find unusual shared libraries             | [EN](Olicyber/Introduzione/Software/02%20-%20Librerie/writeup-en.md) · [IT](Olicyber/Introduzione/Software/02%20-%20Librerie/writeup-it.md) |
 | 03 | Sezioni       | Inspect ELF sections; hidden UTF-16LE data | [EN](Olicyber/Introduzione/Software/03%20-%20Sezioni/writeup-en.md) · [IT](Olicyber/Introduzione/Software/03%20-%20Sezioni/writeup-it.md) |
+| 04 | Strings 1     | Extract literals with `strings`             | [EN](Olicyber/Introduzione/Software/04%20-%20Strings1/writeup-en.md) · [IT](Olicyber/Introduzione/Software/04%20-%20Strings1/writeup-it.md) |
+| 05 | Strings 2     | Use Ghidra decompiler; reconstruct UTF-16LE | [EN](Olicyber/Introduzione/Software/05%20-%20Strings2/writeup-en.md) · [IT](Olicyber/Introduzione/Software/05%20-%20Strings2/writeup-it.md) |
+| 06 | Strings 3     | XOR-protected flag; invert key to recover   | [EN](Olicyber/Introduzione/Software/06%20-%20Strings3/writeup-en.md) · [IT](Olicyber/Introduzione/Software/06%20-%20Strings3/writeup-it.md) |
 </details>
 <details>
 <summary><b>Crypto</b></summary>
