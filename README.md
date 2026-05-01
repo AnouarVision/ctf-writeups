@@ -29,6 +29,9 @@
 | 04 | Strings 1     | Extract literals with `strings`             | [EN](Olicyber/Introduzione/Software/04%20-%20Strings1/writeup-en.md) · [IT](Olicyber/Introduzione/Software/04%20-%20Strings1/writeup-it.md) |
 | 05 | Strings 2     | Use Ghidra decompiler; reconstruct UTF-16LE | [EN](Olicyber/Introduzione/Software/05%20-%20Strings2/writeup-en.md) · [IT](Olicyber/Introduzione/Software/05%20-%20Strings2/writeup-it.md) |
 | 06 | Strings 3     | XOR-protected flag; invert key to recover   | [EN](Olicyber/Introduzione/Software/06%20-%20Strings3/writeup-en.md) · [IT](Olicyber/Introduzione/Software/06%20-%20Strings3/writeup-it.md) |
+| 07 | Stack 1       | Flag built on stack via per-byte `movb`     | [EN](Olicyber/Introduzione/Software/07%20-%20Stack1/writeup-en.md) · [IT](Olicyber/Introduzione/Software/07%20-%20Stack1/writeup-it.md) |
+| 08 | Dynamic 1     | Dynamic tracing with `ltrace`                | [EN](Olicyber/Introduzione/Software/08%20-%20Dynamic1/writeup-en.md) · [IT](Olicyber/Introduzione/Software/08%20-%20Dynamic1/writeup-it.md) |
+| 09 | Dynamic 2     | Syscall tracing with `strace`                 | [EN](Olicyber/Introduzione/Software/09%20-%20Dynamic2/writeup-en.md) · [IT](Olicyber/Introduzione/Software/09%20-%20Dynamic2/writeup-it.md) |
 </details>
 <details>
 <summary><b>Crypto</b></summary>
