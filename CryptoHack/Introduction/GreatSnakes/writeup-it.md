@@ -75,7 +75,14 @@ $$81_{10} = 1010001_2, \qquad 50_{10} = 0110010_2$$
 
 **Passo 2.** Applicare lo XOR bit a bit colonna per colonna:
 
-$$\begin{array}{r} 1010001 \\ \oplus \quad 0110010 \\ \hline 1100011 \end{array}$$
+$$
+\begin{array}{r}
+1010001 \\
+\oplus \quad 0110010 \\
+--------- \\
+1100011
+\end{array}
+$$
 
 **Passo 3.** Riconvertire in decimale:
 
