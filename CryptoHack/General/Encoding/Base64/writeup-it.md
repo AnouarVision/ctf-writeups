@@ -34,7 +34,9 @@ Data una sequenza di byte $B = (b_0, b_1, b_2)$, i quattro indici Base64 $i_0, i
 $$i_0 = b_0 \gg 2$$
 
 i1 = ((b0 & 0x03) << 4) | (b1 >> 4)
+
 i2 = ((b1 & 0x0F) << 2) | (b2 >> 6)
+
 i3 = b2 & 0x3F
 
 Ogni indice $i_k$ viene poi mappato al carattere corrispondente in $\mathcal{A}$.
