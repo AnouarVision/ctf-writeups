@@ -13,6 +13,47 @@
 
 
 ## Competitions
+### CryptoHack
+<details>
+<summary><b>Introduction</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | Great Snakes  | Run & inspect Python script              | [EN](CryptoHack/Introduction/GreatSnakes/writeup-en.md) · [IT](CryptoHack/Introduction/GreatSnakes/writeup-it.md) |
+| 02 | Network Attacks      | Interact with remote socket using JSON (pwntools)             | [EN](CryptoHack/Introduction/NetworkAttacks/writeup-en.md) · [IT](CryptoHack/Introduction/NetworkAttacks/writeup-it.md) |
+</details>
+<details>
+<summary><b>Challenges</b></summary>
+<details>
+<summary><b>Encoding</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | ASCII  | Convert ASCII codes to characters (ord/chr) script              | [EN](CryptoHack/General/Encoding/ASCII/writeup-en.md) · [IT](CryptoHack/General/Encoding/ASCII/writeup-it.md) |
+| 02 | Hex     | Decode hex string to bytes and ASCII             | [EN](CryptoHack/General/Encoding/Hex/writeup-en.md) · [IT](CryptoHack/General/Encoding/Hex/writeup-it.md) |
+| 03 | Base64     | Base64 decode to bytes and ASCII             | [EN](CryptoHack/General/Encoding/Base64/writeup-en.md) · [IT](CryptoHack/General/Encoding/Base64/writeup-it.md) |
+| 04 | Bytes and Big Integers    | Convert between bytes, integers and hex (bigint)             | [EN](CryptoHack/General/Encoding/BytesAndBigIntegers/writeup-en.md) · [IT](CryptoHack/General/Encoding/BytesAndBigIntegers/writeup-it.md) |
+| 05 | Encoding Challenge    | Multi‑step decoding (hex → bytes → base64 → etc.)            | [EN](CryptoHack/General/Encoding/EncodingChallenge/writeup-en.md) · [IT](CryptoHack/General/Encoding/EncodingChallenge/writeup-it.md) |
+</details>
+<details>
+<summary><b>XOR</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | XOR Starter  | XOR each ASCII character with single‑byte key (ord/chr)              | [EN](CryptoHack/General/XOR/XORStarter/writeup-en.md) · [IT](CryptoHack/General/XOR/XORStarter/writeup-it.md) |
+| 05 | Lemur XOR   | XOR two binary files byte‑by‑byte to recover hidden data            | [EN](CryptoHack/General/XOR/LemurXOR/writeup-en.md) · [IT](CryptoHack/General/XOR/LemurXOR/writeup-it.md) |
+</details>
+<details>
+<summary><b>Mathematics</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | Greatest Common Divisor  | Compute gcd(a, b) using Euclidean algorithm              | [EN](CryptoHack/General/Mathematics/GreatestCommonDivisor/writeup-en.md) · [IT](CryptoHack/General/Mathematics/GreatestCommonDivisor/writeup-it.md) |
+</details>
+<details>
+<summary><b>Data formats</b></summary>
+</details>
+</details>
 
 ### OliCyber
 <details>
