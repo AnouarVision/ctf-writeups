@@ -33,11 +33,9 @@ Data una sequenza di byte $B = (b_0, b_1, b_2)$, i quattro indici Base64 $i_0, i
 
 $$i_0 = b_0 \gg 2$$
 
-$$i_1 = \bigl((b_0 \mathbin{\&} \texttt{0x03}) \ll 4\bigr) \mathbin{|} (b_1 \gg 4)$$
-
-$$i_2 = \bigl((b_1 \mathbin{\&} \texttt{0x0F}) \ll 2\bigr) \mathbin{|} (b_2 \gg 6)$$
-
-$$i_3 = b_2 \mathbin{\&} \texttt{0x3F}$$
+i1 = ((b0 & 0x03) << 4) | (b1 >> 4)
+i2 = ((b1 & 0x0F) << 2) | (b2 >> 6)
+i3 = b2 & 0x3F
 
 Ogni indice $i_k$ viene poi mappato al carattere corrispondente in $\mathcal{A}$.
 
@@ -79,7 +77,7 @@ I primi quattro caratteri dell'output Base64 sono `cryp`, coerente con il prefis
 
 La trasformazione completa può essere espressa come composizione:
 
-$$\text{output} = \text{Base64}\bigl(\text{fromHex}(\text{hex\_string})\bigr)$$
+output = Base64(fromHex(hex_string))
 
 **Passo 1.** Decodificare la stringa hex in un oggetto `bytes` tramite `bytes.fromhex()`.
 
