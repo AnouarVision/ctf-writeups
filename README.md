@@ -41,6 +41,9 @@
 | #  | Challenge     | Technique / Note                         | Writeup |
 |----|---------------|-------------------------------------------|---------|
 | 01 | XOR Starter  | XOR each ASCII character with single‑byte key (ord/chr)              | [EN](CryptoHack/General/XOR/XORStarter/writeup-en.md) · [IT](CryptoHack/General/XOR/XORStarter/writeup-it.md) |
+| 02 | XOR Properties  | Use XOR algebra to recover unknown keys from given XOR relations (byte‑wise XOR)              | [EN](CryptoHack/General/XOR/XORProperties/writeup-en.md) · [IT](CryptoHack/General/XOR/XORProperties/writeup-it.md) |
+| 03 | Favourite byte  | Brute‑force all 256 possible single‑byte XOR keys and select the one producing readable ASCII plaintext           | [EN](CryptoHack/General/XOR/FavouriteByte/writeup-en.md) · [IT](CryptoHack/General/XOR/FavouriteByte/writeup-it.md) |
+| 04 | You either know, XOR you don't  | Use a repeating-key XOR decryption with the recovered key over the whole ciphertext.           | [EN](CryptoHack/General/XOR/YouEitherKnowXORYouDon't/writeup-en.md) · [IT](CryptoHack/General/XOR/YouEitherKnowXORYouDon't/writeup-it.md) |
 | 05 | Lemur XOR   | XOR two binary files byte‑by‑byte to recover hidden data            | [EN](CryptoHack/General/XOR/LemurXOR/writeup-en.md) · [IT](CryptoHack/General/XOR/LemurXOR/writeup-it.md) |
 </details>
 <details>
