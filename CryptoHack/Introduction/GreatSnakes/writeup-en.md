@@ -75,7 +75,14 @@ $$81_{10} = 1010001_2, \qquad 50_{10} = 0110010_2$$
 
 **Step 2.** Apply bitwise XOR column by column:
 
-$$\begin{array}{r} 1010001 \\ \oplus \quad 0110010 \\ \hline 1100011 \end{array}$$
+$$
+\begin{array}{r}
+1010001 \\
+\oplus \quad 0110010 \\
+--------- \\
+1100011
+\end{array}
+$$
 
 **Step 3.** Convert back to decimal:
 
