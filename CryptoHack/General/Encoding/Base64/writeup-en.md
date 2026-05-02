@@ -32,11 +32,11 @@ Given a byte sequence $B = (b_0, b_1, b_2)$, the four Base64 indices $i_0, i_1, 
 
 $$i_0 = b_0 \gg 2$$
 
-$$i_1 = \bigl((b_0 \mathbin{\&} \texttt{0x03}) \ll 4\bigr) \mathbin{|} (b_1 \gg 4)$$
+i1 = ((b0 & 0x03) << 4) | (b1 >> 4)
 
-$$i_2 = \bigl((b_1 \mathbin{\&} \texttt{0x0F}) \ll 2\bigr) \mathbin{|} (b_2 \gg 6)$$
+i2 = ((b1 & 0x0F) << 2) | (b2 >> 6)
 
-$$i_3 = b_2 \mathbin{\&} \texttt{0x3F}$$
+i3 = b2 & 0x3F
 
 Each index $i_k$ is then mapped to its corresponding character in $\mathcal{A}$.
 
@@ -78,7 +78,7 @@ The first four characters of the Base64 output are `cryp`, consistent with the f
 
 The full transformation can be expressed as the composition:
 
-$$\text{output} = \text{Base64}\bigl(\text{fromHex}(\text{hex\_string})\bigr)$$
+output = Base64(fromHex(hex_string))
 
 **Step 1.** Decode the hex string into a `bytes` object using `bytes.fromhex()`.
 
