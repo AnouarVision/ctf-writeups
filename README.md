@@ -59,6 +59,10 @@
 </details>
 <details>
 <summary><b>Data formats</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | Privacy Enhanced Email  | Parse a PEM file and extract the RSA private key              | [EN](CryptoHack/General/DataFormats/PrivacyEnhancedEmail/writeup-en.md) · [IT](CryptoHack/General/DataFormats/PrivacyEnhancedEmail/writeup-it.md) |
 </details>
 </details>
 
