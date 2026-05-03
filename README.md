@@ -52,6 +52,10 @@
 | #  | Challenge     | Technique / Note                         | Writeup |
 |----|---------------|-------------------------------------------|---------|
 | 01 | Greatest Common Divisor  | Compute gcd(a, b) using Euclidean algorithm              | [EN](CryptoHack/General/Mathematics/GreatestCommonDivisor/writeup-en.md) · [IT](CryptoHack/General/Mathematics/GreatestCommonDivisor/writeup-it.md) |
+| 02 | Extended GCD  | Compute gcd(a, b) using Euclidean algorithm              | [EN](CryptoHack/General/Mathematics/ExtendedGCD/writeup-en.md) · [IT](CryptoHack/General/Mathematics/ExtendedGCD/writeup-it.md) |
+| 03 | Modular Arithmetic 1  | Reduce large numbers by a modulus to get small remainders              | [EN](CryptoHack/General/Mathematics/ModularArithmetic1/writeup-en.md) · [IT](CryptoHack/General/Mathematics/ModularArithmetic1/writeup-it.md) |
+| 04 | Modular Arithmetic 2   | Use Fermat’s little theorem to simplify huge powers.  | [EN](CryptoHack/General/Mathematics/ModularArithmetic2/writeup-en.md) · [IT](CryptoHack/General/Mathematics/ModularArithmetic2/writeup-it.md) |
+| 05 | Modular Inverting  | **Modular inverse** using extended Euclidean algorithm or Fermat's Little Theorem             | [EN](CryptoHack/General/Mathematics/ModularInverting/writeup-en.md) · [IT](CryptoHack/General/Mathematics/ModularInverting/writeup-it.md) |
 </details>
 <details>
 <summary><b>Data formats</b></summary>
