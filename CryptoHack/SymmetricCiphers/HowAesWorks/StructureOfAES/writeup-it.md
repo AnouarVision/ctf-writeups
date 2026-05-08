@@ -57,7 +57,16 @@ Identico ai round 1–9, ma **MixColumns è omesso**. Questo rende la decifratur
 
 I 16 byte del testo in chiaro vengono disposti nella matrice di stato **per colonne**:
 
-$$\begin{pmatrix} b_0 & b_4 & b_8 & b_{12} \\ b_1 & b_5 & b_9 & b_{13} \\ b_2 & b_6 & b_{10} & b_{14} \\ b_3 & b_7 & b_{11} & b_{15} \end{pmatrix}$$
+$$
+\left[
+\begin{array}{cccc}
+b_0 & b_4 & b_8 & b_{12} \\
+b_1 & b_5 & b_9 & b_{13} \\
+b_2 & b_6 & b_{10} & b_{14} \\
+b_3 & b_7 & b_{11} & b_{15}
+\end{array}
+\right]
+$$
 
 Si noti l'ordinamento column-major: i byte 0–3 riempiono la prima colonna, i byte 4–7 la seconda e così via. Questo è importante quando si implementano correttamente `bytes2matrix` e `matrix2bytes`.
 
