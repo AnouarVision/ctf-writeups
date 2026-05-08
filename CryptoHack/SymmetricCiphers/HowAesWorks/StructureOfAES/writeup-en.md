@@ -62,7 +62,16 @@ Identical to rounds 1–9, but **MixColumns is omitted**. This makes decryption 
 
 The 16 bytes of the plaintext are arranged in the state matrix **column by column**:
 
-$$\begin{pmatrix} b_0 & b_4 & b_8 & b_{12} \\ b_1 & b_5 & b_9 & b_{13} \\ b_2 & b_6 & b_{10} & b_{14} \\ b_3 & b_7 & b_{11} & b_{15} \end{pmatrix}$$
+$$
+\left[
+\begin{array}{cccc}
+b_0 & b_4 & b_8 & b_{12} \\
+b_1 & b_5 & b_9 & b_{13} \\
+b_2 & b_6 & b_{10} & b_{14} \\
+b_3 & b_7 & b_{11} & b_{15}
+\end{array}
+\right]
+$$
 
 Note the column-major ordering: bytes 0–3 fill the first column, bytes 4–7 the second, and so on. This is important when implementing `bytes2matrix` and `matrix2bytes` correctly.
 
