@@ -65,6 +65,19 @@
 | 01 | Privacy Enhanced Email  | Parse a PEM file and extract the RSA private key              | [EN](CryptoHack/General/DataFormats/PrivacyEnhancedEmail/writeup-en.md) · [IT](CryptoHack/General/DataFormats/PrivacyEnhancedEmail/writeup-it.md) |
 </details>
 </details>
+<details>
+<summary><b>Symmetric Ciphers</b></summary>
+<details>
+<summary><b>How AES works</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | Keyed Permutations  | Understand how AES implements a key‑dependent permutation over 128‑bit blocks and why such ciphers rely on one‑to‑one mappings to remain reversible              | [EN](CryptoHack/SymmetricCiphers/HowAesWorks/KeyedPermutations/writeup-en.md) · [IT](CryptoHack/SymmetricCiphers/HowAesWorks/KeyedPermutations/writeup-it.md) |
+| 02 | Resisting Bruteforce | Understand how modern cryptanalysis evaluates single‑key attacks on AES and why even the best known improvements barely reduce the cost of exhaustive search              | [EN](CryptoHack/SymmetricCiphers/HowAesWorks/KeyedPermutations/writeup-en.md) · [IT](CryptoHack/SymmetricCiphers/HowAesWorks/KeyedPermutations/writeup-it.md) |
+| 03 | Structure of AES | Understand how AES derives round keys from the original key and how AddRoundKey injects them into the state through XOR, making AES a keyed permutation.              | [EN](CryptoHack/SymmetricCiphers/HowAesWorks/StructureOfAES/writeup-en.md) · [IT](CryptoHack/SymmetricCiphers/HowAesWorks/StructureOfAES/writeup-it.md) |
+
+</details>
+</details>
 
 ### OliCyber
 <details>
