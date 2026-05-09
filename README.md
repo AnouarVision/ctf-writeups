@@ -77,6 +77,14 @@
 | 03 | Structure of AES | Understand how AES derives round keys from the original key and how AddRoundKey injects them into the state through XOR, making AES a keyed permutation.              | [EN](CryptoHack/SymmetricCiphers/HowAesWorks/StructureOfAES/writeup-en.md) · [IT](CryptoHack/SymmetricCiphers/HowAesWorks/StructureOfAES/writeup-it.md) |
 
 </details>
+<details>
+<summary><b>Symmetric Starter</b></summary>
+
+| #  | Challenge     | Technique / Note                         | Writeup |
+|----|---------------|-------------------------------------------|---------|
+| 01 | Modes of Operation Starter  | Understand how block cipher modes transform a single‑block primitive like AES into a secure multi‑block encryption scheme and why incorrect mode selection can break confidentiality             | [EN](CryptoHack/SymmetricCiphers/SymmetricStarter/ModesOfOperationStarter/writeup-en.md) · [IT](CryptoHack/SymmetricCiphers/SymmetricStarter/ModesOfOperationStarter/writeup-it.md) |
+| 02 | Passwords as Keys | Recognize why human‑chosen passwords make weak AES keys and how brute‑force attacks exploit low entropy to recover them despite the strength of the cipher           | [EN](CryptoHack/SymmetricCiphers/SymmetricStarter/PasswordAsKeys/writeup-en.md) · [IT](CryptoHack/SymmetricCiphers/SymmetricStarter/PasswordAsKeys/writeup-it.md) |
+</details>
 </details>
 
 ### OliCyber
