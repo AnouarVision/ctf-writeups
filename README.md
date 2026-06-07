@@ -403,6 +403,7 @@
 |-----|-------------|---------------------------------|--------|
 | 01  | Chaud Devant | GeoInt · Reverse Image Search · Subject Identification  | [EN](404CTF/2026/OSINT/ChaudDevant/writeup-en.md) · [IT](404CTF/2026/OSINT/ChaudDevant/writeup-it.md) |
 | 02  | Monsieur C : Découverte | Social Media | [EN](404CTF/2026/OSINT/MonsieurCDecouverte/writeup-en.md) · [IT](404CTF/2026/OSINT/MonsieurCDecouverte/writeup-it.md) |
+| 04  | Canular savant (1/3) | GeoInt · Web Research | [EN](404CTF/2026/OSINT/CanularSavant1/writeup-en.md) · [IT](404CTF/2026/OSINT/CanularSavant1/writeup-it.md) |
 
 </details>
 </details>
