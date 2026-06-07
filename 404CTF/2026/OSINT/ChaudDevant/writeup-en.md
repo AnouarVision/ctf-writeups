@@ -1,6 +1,6 @@
 # Chaud Devant
 
-**Competition:** 404CTF 2026
+**Competition:** 404CTF 2026 <br>
 **Category:** OSINT
 
 <img src="chaud_devant.png">

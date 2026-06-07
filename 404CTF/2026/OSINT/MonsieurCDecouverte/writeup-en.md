@@ -1,6 +1,6 @@
 # Monsieur C : Découverte
 
-**Competition:** 404CTF 2026
+**Competition:** 404CTF 2026 <br>
 **Category:** OSINT
 
 <img src="monsieurC.png">
