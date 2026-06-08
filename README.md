@@ -404,6 +404,10 @@
 | 01  | Chaud Devant | GeoInt · Reverse Image Search · Subject Identification  | [EN](404CTF/2026/OSINT/ChaudDevant/writeup-en.md) · [IT](404CTF/2026/OSINT/ChaudDevant/writeup-it.md) |
 | 02  | Monsieur C : Découverte | Social Media | [EN](404CTF/2026/OSINT/MonsieurCDecouverte/writeup-en.md) · [IT](404CTF/2026/OSINT/MonsieurCDecouverte/writeup-it.md) |
 | 04  | Canular savant (1/3) | GeoInt · Web Research | [EN](404CTF/2026/OSINT/CanularSavant1/writeup-en.md) · [IT](404CTF/2026/OSINT/CanularSavant1/writeup-it.md) |
+| 05  | C'était caché | Git Forensics · Web Research | [EN](404CTF/2026/OSINT/C'EtaitCache/writeup-en.md) · [IT](404CTF/2026/OSINT/C'EtaitCache/writeup-it.md) |
+| 07  | Canular savant (2/3) | Web Research · Lyrics Analysis | [EN](404CTF/2026/OSINT/CanularSavant2/writeup-en.md) · [IT](404CTF/2026/OSINT/CanularSavant2/writeup-it.md) |
+| 08  | Papioutai | Web Research · Archive Research | [EN](404CTF/2026/OSINT/Papioutai/writeup-en.md) · [IT](404CTF/2026/OSINT/Papioutai/writeup-it.md) |
+| 16  | Canular savant (3/3) | GeoInt · Solar Alignment · Web Research | [EN](404CTF/2026/OSINT/CanularSavant3/writeup-en.md) · [IT](404CTF/2026/OSINT/CanularSavant3/writeup-it.md) |
 
 </details>
 </details>
