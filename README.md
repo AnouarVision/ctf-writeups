@@ -413,14 +413,13 @@
 
 <details>
 <summary><b>Forensic</b></summary>
-</details>
 
 | #  | Challenge   | Technique / Note                | Writeup |
 |-----|-------------|---------------------------------|--------|
 | 01  | Exfiltration Kantik (1/3) | Network Analysis · CVE Research | [EN](404CTF/2026/Forensics/ExfiltrationKantik1/writeup-en.md) · [IT](404CTF/2026/Forensics/ExfiltrationKantik1/writeup-it.md) |
 | 02  | Extraction d'ADNs | DNS Tunneling · Base32 | [EN](404CTF/2026/Forensics/ExtractionD'ADNs/writeup-en.md) · [IT](404CTF/2026/Forensics/ExtractionD'ADNs/writeup-it.md) |
 | 03  | Curieux SMS | SQLite Database Analysis · Android | [EN](404CTF/2026/Forensics/CurieuxSMS/writeup-en.md) · [IT](404CTF/2026/Forensics/CurieuxSMS/writeup-it.md) |
-
+</details>
 </details>
 
 ---
